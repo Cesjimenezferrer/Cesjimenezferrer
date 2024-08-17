@@ -1,4 +1,5 @@
-#👋 Hi there, I’m Cesar Jimenez
+👋 Hi there, I’m Cesar Jimenez
+===
 - 👀 I’m interested in Data Visualization, Data Management, Data and more data
 - 🌱 I’m currently learning Power BI & some programming tools
 - 📫 You can reach out to me via email @cesjimenezferrer@gmail.com or connect through LinkedIn @linkedin.com/in/cesjimenezferrer
