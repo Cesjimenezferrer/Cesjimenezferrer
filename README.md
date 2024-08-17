@@ -5,6 +5,5 @@
 - ⚡ Fun fact: My passion for data visualization and analysis started when I started my marketing MA degree, since then, I have enjoyed my journey in the data world!
 - ⚡ Fun fact 2: I’m a huge dog lover! I’ve got two dogs—one looks like a wolf, and the other is a wiener dog. It’s like having the best of both worlds: fierce and adorable!
 
-
-replace ![image](https://github.com/user-attachments/assets/73dc1bd3-7fe0-4090-86c6-f41c816673e8) with <img src="https://your-image-url.type" width="100" height="100">
-replace ![image](https://github.com/user-attachments/assets/2daf440d-115f-4bc9-ad69-693a7a8ec501) with <img src="https://your-image-url.type" width="100" height="100">
+![image](https://github.com/user-attachments/assets/73dc1bd3-7fe0-4090-86c6-f41c816673e8) width="100" height="100">
+![image](https://github.com/user-attachments/assets/2daf440d-115f-4bc9-ad69-693a7a8ec501) width="100" height="100">
