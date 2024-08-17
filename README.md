@@ -6,4 +6,4 @@
 - ⚡ Fun fact 2: I’m a huge dog lover! I’ve got two dogs—one looks like a wolf, and the other is a wiener dog. It’s like having the best of both worlds: fierce and adorable!
 
 <img src="https://github.com/user-attachments/assets/73dc1bd3-7fe0-4090-86c6-f41c816673e8" width="100" height="100">
-<img src=https://github.com/user-attachments/assets/2daf440d-115f-4bc9-ad69-693a7a8ec501" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/2daf440d-115f-4bc9-ad69-693a7a8ec501" width="100" height="100">
