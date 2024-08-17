@@ -1,7 +1,8 @@
 👋 Hi there, I’m Cesar Jimenez  
 ===
 
-- 👀 **Current Analyst with a passion for data**: I’m currently working with **Call Miner**, a powerful tool that captures the voice of the customer and agent, transforming conversations into text data. I enjoy diving deep into this data, creating **cool analytics**, and developing **queries** to extract keywords and insights that help improve the customer experience.
+### **Current Analyst with a passion for data**: I’m currently working with **Call Miner**, a powerful tool that captures the voice of the customer and agent, transforming conversations into text data. I enjoy diving deep into this data, creating **cool analytics**, and developing **queries** to extract keywords and insights that help improve the customer experience.
+
 - 🌱 I’m constantly expanding my knowledge in **Power BI** and experimenting with various **programming tools** to enhance my data analysis skills.
 - 📊 My work includes designing **interactive dashboards in Tableau**, optimizing processes with **Alteryx**, and manipulating large datasets in **Excel** to turn data into actionable insights.
 - 📫 You can reach out to me via email at [cesjimenezferrer@gmail.com](mailto:cesjimenezferrer@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/cesjimenezferrer).
